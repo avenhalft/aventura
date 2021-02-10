@@ -1,0 +1,5 @@
+   @font-face { 
+   font-family: 'The Centurion';
+   src: url('/wewbfonts/The Centurion.otf');
+   src: local('The Centurion'), local('The Centurion'), url('/fonts/The Centurion.ttf') format('truetype');
+}
