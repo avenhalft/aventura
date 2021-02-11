@@ -1,7 +1,7 @@
 function showhide (idtarget) {
   bloco = document.getElementById(idtarget);
-  if (bloco.class =='collapse.show') {
-    bloco.class = 'collapse';
+  if (bloco.className =='collapse.show') {
+    bloco.className = 'collapse';
   } else {
-    bloco.class = 'collapse.show';
+    bloco.className = 'collapse.show';
   }};
