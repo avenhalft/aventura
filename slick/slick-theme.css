@@ -202,3 +202,8 @@
     opacity: .75;
     color: black;
 }
+
+.tm-gallery-item slick-slide slick-current slick-active
+{
+    width: 300px;
+}
